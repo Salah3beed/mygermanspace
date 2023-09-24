@@ -1,29 +1,43 @@
-# First Chorus
+# Luftballon by Gustav & Noah
 
-Du gehst ohne Grund davon
-- You walk away for no reason. 
+## First Chorus
+
+|Satz|Übersetzung|
+|---|---|
+|Du gehst ohne Grund davon |You walk away for no reason.|
+
+ 
 - davon here means "away"
 - here are other usages for davon 
     - Der erste Teil davon war besonders mühsam. (The first part of this was particularly troublesome.)
     - Möchtest du vielleicht etwas davon abhaben? (would you like to have some?)
     - Das kommt davon, dass du dir zu wenig Mühe gegeben hast. (That's because you didn't put in enough effort.)
 
-Ist okay, ich lass' dich fliegen wie ein Luftballon
-- It's okay, I'll let you fly like a balloon.
+|Satz|Übersetzung|
+|---|---|
+|Ist okay, ich lass' dich fliegen wie ein Luftballon| It's okay, I'll let you fly like a balloon.| 
+
+
 - lass' = lasse like => habe = hab'
 - Ist okay is used instead of "Es ist okay" just for the slang or being fast.
 
-Und ich warte, bis du runterkommst
-- And I will wait until you come down 
+|Satz|Übersetzung|
+|---|---|
+|Und ich warte, bis du runterkommst|And I will wait until you come down |
 
-Doch dann lass' ich's lieber sein und dreh' mich um, pardon
-- But then I'd rather not and turn around, pardon me...
-- but then I'd rather leave it alone and turn around.
+|Satz|Übersetzung|
+|---|---|
+|Doch dann lass' ich's lieber sein und dreh' mich um, pardon|But then I'd rather not and turn around, pardon me... <br> **or** But then I'd rather leave it alone and turn around.|
 
-Denn du gehst ohne Grund davon
-Ist okay, ich lass' dich fliegen wie ein Luftballon
-Und ich warte, bis du runterkommst
-Doch dann lass' ich's lieber sein und dreh' mich um, pardon
+|Satz|Übersetzung|
+|---|---|
+|Denn du gehst ohne Grund davon| Because you walk away for no reason|
+
+|Satz|Übersetzung|
+|---|---|
+|Ist okay, ich lass' dich fliegen wie ein Luftballon|-|
+|Und ich warte, bis du runterkommst|-|
+|Doch dann lass' ich's lieber sein und dreh' mich um, pardon|-|
 
 [Part 1: Noah]
 Ich war gestern an dem Platz, den du mir damals ma' gezeigt hast, wo warst du?
